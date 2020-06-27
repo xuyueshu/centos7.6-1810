@@ -1,0 +1,1 @@
+but the this error should go to the test_STDOUT_STDERR_WHIT_EXEC1.sh_standarderror.txt

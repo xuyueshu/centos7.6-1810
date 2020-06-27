@@ -1,0 +1,1 @@
+this output should go to the output file:test_STDOUT_STDERR_WHIT_EXEC1.sh_standardoutput.txt

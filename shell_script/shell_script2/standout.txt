@@ -1,0 +1,2 @@
+-rwxrw-r-- 1 youzhiqiang youzhiqiang 209 6月  21 16:05 for_list2.sh
+-rwxrw-r-- 1 youzhiqiang youzhiqiang 100 6月  21 16:05 for_list3.sh

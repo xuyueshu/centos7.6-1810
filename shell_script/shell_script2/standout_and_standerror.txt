@@ -1,0 +1,4 @@
+ls: 无法访问for_list7.sh: 没有那个文件或目录
+ls: 无法访问for_list8.sh: 没有那个文件或目录
+-rwxrw-r-- 1 youzhiqiang youzhiqiang 209 6月  21 16:05 for_list2.sh
+-rwxrw-r-- 1 youzhiqiang youzhiqiang 100 6月  21 16:05 for_list3.sh

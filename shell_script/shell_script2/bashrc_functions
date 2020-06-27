@@ -1,0 +1,14 @@
+function avg_nums(){
+	local i
+	local nums_to_avg
+	local sum=0
+	for i in $@
+	do
+		sum=$[${sum} + ${i} ]
+	done
+	nums_to_avg=$( echo "${sum}/$#" | bc )
+	echo "these numbers's avg is : ${nums_to_avg}"
+}
+function cdscriptpath(){
+	cd /home/youzhiqiang/shell_script/shell_script2
+}
